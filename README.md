@@ -47,9 +47,9 @@ Las Tareas consisten en:
 2. Definiendo los elementos graficos y la manera del manejo de la interfaz del programa cliente desarrollado en C# para la computadora que funcionara como servidor.
 3. Verificar el algoritmo que determina la tarea a ejecutar en el cartel. 
 
-# Librerias utilizadas
+# Librerías utilizadas
 - Interfaz de estilo web [Material Desing Lite](https://getmdl.io/)
-- Protoclo comunicacion MQTT [mqtt.org](https://mqtt.org/)
+- Protocolo comunicación MQTT [mqtt.org](https://mqtt.org/)
 - Cliente MQTT para Android [MQTT Dashboard](https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=es_AR&gl=US)
-- Estructura de mesanjes cliente/serividor [arduinojson](https://arduinojson.org/)
-- Plataforma de desarrollo [Arduino](https://www.arduino.cc/)
+- Estructura de mensajes cliente/servidor  [arduinojson](https://arduinojson.org/)
+- Plataforma de desarrollo  [Arduino](https://www.arduino.cc/)
