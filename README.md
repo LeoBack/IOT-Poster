@@ -16,7 +16,11 @@ Basado en el módulo NodeMCU ESP8266 como placa controladora dentro de cada cart
 
 ### Configuración Inicial
 - Paso 1: Cuando arranca el cartel los primeros 10 segundos indicados por el parpadeo de un led para presionar un pulsador ubicado en la placa principal para ingresar al modo configuración con la dirección IP 192.168.4.1 (en el navegador web) donde se configura la Red wifi que se debe conectar. Presionamos en guardar el dispositivo se reinicia y repite el proceso, Pasados los 10 segundos se conecta a la red wifi previamente configurada. 
+<img src="/images/ModoAP.png" alt="drawing" width="400"/>
+
 - Paso 2: Buscamos en la red la ip que el router le asigno y accedemos a la página principal.
+<img src="/images/PagMain.png" alt="drawing" width="600"/>
+
 
 ## Cliente - MQTT Dashboard
 Cliente MQTT disponible en la tienda de aplicaciones de Android [MQTT Dashboard](https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=es_AR&gl=US). La ampliación una vez descargada está en blanco, para configurarla se necesita de otro celular con la aplicación configurada para clonarla siguiendo los pasos que la misma aplicación brida.
