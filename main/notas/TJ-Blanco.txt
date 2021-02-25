@@ -1,0 +1,242 @@
+---
+---
+[Starting] Opening the serial port - COM6
+[Info] Opened the serial port - COM6
+{l�l�|�$�b|�����{�b�c��no�p�b$`r$p�n��$��#N�|�l��b��No�d��l �onl or����#d`{��nb$ �b��l��r� ��n�press AP mode 10s remaining time
+press AP mode 9s remaining time
+press AP mode 8s remaining time
+press AP mode 7s remaining time
+press AP mode 6s remaining time
+press AP mode 5s remaining time
+press AP mode 4s remaining time
+press AP mode 3s remaining time
+press AP mode 2s remaining time
+press AP mode 1s remaining time
+press AP mode 0s remaining time
+SET mode_STA
+Configuracion Wifi leida:
+SSID: TN_Directorio
+Password: TNDirectores
+
+Initiated STA:	TN_Directorio
+IP address:	(IP unset)
+HTTP server started
+WebSocket server started
+
+
+Sdk version: 2.2.2-dev(38a443e)
+Core Version: 2_7_4
+Boot Version: 31
+Boot Mode: 1
+CPU Frequency: 80 MHz
+Reset reason: External System
+Read files:	NOW= 2020/12/8 22:5:20
+# 1 = Blanco-1	[2020/1/1 20:0:0 - 2030/12/7 23:59:59]
+Valid= Yes	Period= 3993d 3h 59min 59s
+1 & !0 = 1	Duration= 0d 3h 59min 59s
+		Time to run= 0d -2h -5min -20s
+TEST #2.1- Default=Blanco-1
+# 2 = Blanco-2	[2020/1/1 0:0:0 - 2030/12/7 7:0:0]
+Valid= Yes	Period= 3993d 7h 0min 0s
+1 & !1 = 0	Duration= 0d 7h 0min 0s
+		Time to run= 0d -22h -5min -20s
+# 3 = Blanco-1	[2020/1/1 0:0:0 - 2030/12/7 23:59:59]
+Valid= Yes	Period= 3993d 23h 59min 59s
+1 & !0 = 1	Duration= 0d 23h 59min 59s
+
+		Time to run= 0d -22h -5min -20s
+TEST #2.3- None= Blanco-1
+Is RUN= Blanco-1
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFFFF
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF7F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF3F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF1F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 3, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF0F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 2, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF07
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 1, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF03
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 0, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF01
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFFFF 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF7F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF3F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF1F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 3, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF0F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 2, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF07 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 1, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF03 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 0, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF01 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFF 0xFFFFFFFF 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFF 0xFFFFFF7F 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFF 0xFFFFFF3F 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFF 0xFFFFFF1F 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 3, Toggle= 0, Value= 0xFF 0xFFFFFF0F 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 2, Toggle= 0, Value= 0xFF 0xFFFFFF07 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 1, Toggle= 0, Value= 0xFF 0xFFFFFF03 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 0, Toggle= 0, Value= 0xFF 0xFFFFFF01 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFFFFFFFF 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFFFFFF7F 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFFFFFF3F 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFFFFFF1F 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 3, Toggle= 0, Value= 0xFFFFFF0F 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 2, Toggle= 0, Value= 0xFFFFFF07 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 1, Toggle= 0, Value= 0xFFFFFF03 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 0, Toggle= 0, Value= 0xFFFFFF01 0x0 0x0 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFFFF
+Read files:	NOW= 2020/12/8 22:5:30
+# 1 = Blanco-1	[2020/1/1 20:0:0 - 2030/12/7 23:59:59]
+Valid= Yes	Period= 3993d 3h 59min 59s
+1 & !0 = 1	Duration= 0d 3h 59min 59s
+		Time to run= 0d -2h -5min -30s
+TEST #2.1- Default=Blanco-1
+# 2 = Blanco-2	[2020/1/1 0:0:0 - 2030/12/7 7:0:0]
+Valid= Yes	Period= 3993d 7h 0min 0s
+1 & !1 = 0	Duration= 0d 7h 0min 0s
+		Time to run= 0d -22h -5min -30s
+# 3 = Blanco-1	[2020/1/1 0:0:0 - 2030/12/7 23:59:59]
+Valid= Yes	Period= 3993d 23h 59min 59s
+1 & !0 = 1	Duration= 0d 23h 59min 59s
+		Time to run= 0d -22h -5min -30s
+TEST #2.3- None= Blanco-1
+Is RUN= Blanco-1
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF7F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF3F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF1F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 3, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF0F
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 2, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF07
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 1, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF03
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 0, Toggle= 0, Value= 0xFF 0xFF 0xFF 0xFFFFFF01
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 7, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFFFF 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 6, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF7F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 5, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF3F 0x0
+---
+#1 File_name= Blanco-1, Item= 1/1, Sec_ID= 6, Time= 300ms, Repeat= 1/1, INV:1
+#2 RGB= 000000
+#3 Sec_name= sec_negative_ladder, nbit= 4, Toggle= 0, Value= 0xFF 0xFF 0xFFFFFF1F 0x0
+[Done] Closed the serial port 

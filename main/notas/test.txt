@@ -1,0 +1,24 @@
+
+SEC           ROT     INV    RESULTADO
+=============================================
+1 Blink        -      -      OK
+2 EvenOrOdd    -      -      OK
+3 Point        0      0      OK
+3 Point        1      0      OK
+3 Point        0      1      OK
+3 Point        1      1      OK
+4 Hole         0      0      OK
+4 Hole         1      0      OK
+4 Hole         0      1      OK
+4 Hole         1      1      OK
+5 Ladder       0      0      OK
+5 Ladder       1      0      OK
+5 Ladder       0      1      OK
+5 Ladder       1      1      OK
+6 nLadder      0      0      OK
+6 nLadder      1      0      OK
+6 nLadder      0      1      OK
+6 nLadder      1      1      OK
+7 ON           -      -      OK
+8 OFF          -      -      OK
+=============================================
