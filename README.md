@@ -7,15 +7,18 @@ El proyecto consiste en módulos periféricos (Los carteles) que ejecutaran las 
 ## Servidor
 En una PC con Windows se instala un servidor MQTT (Protocolo de comunicación ligero y bajo consumo de energía y ancho de banda) que centraliza todos los carteles conectados y a través de una interfaz desarrollada en C# permite la configuración detallada de cada tarea que ejecutará cada cartel.
 
+### Conectividad
+- El acceso es completo en el nivel de red local (dentro de la conectividad del edificio). 
+- Para el acceso desde fuera de la red local (desde celulares, a través de datos, desde otros proveedores de servicios de internet, etc.) es necesario la apertura de puertos, una IP fija o un nombre de dominio en su lugar.
 
-## (Cliente) Hardware en el cartel
+## Cliente - Hardware en el cartel
 Basado en el módulo NodeMCU ESP8266 como placa controladora dentro de cada cartel, donde funciona un servidor web que nos permite la configuración inicial de conectar el dispositivo a una red wifi una vez configurado ahí que buscar la IP que el router le asigno y se accede a una página web donde se visualiza el estado del letrero (Que tarea esta ejecutado, si esta encendido o apagado, encenderlo o apagarlo).
 
 ### Configuración Inicial
 - Paso 1: Cuando arranca el cartel los primeros 10 segundos indicados por el parpadeo de un led para presionar un pulsador ubicado en la placa principal para ingresar al modo configuración con la dirección IP 192.168.4.1 (en el navegador web) donde se configura la Red wifi que se debe conectar. Presionamos en guardar el dispositivo se reinicia y repite el proceso, Pasados los 10 segundos se conecta a la red wifi previamente configurada. 
 - Paso 2: Buscamos en la red la ip que el router le asigno y accedemos a la página principal.
 
-## (Cliente) MQTT Dashboard
+## Cliente - MQTT Dashboard
 Cliente MQTT disponible en la tienda de aplicaciones de Android [MQTT Dashboard](https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=es_AR&gl=US). La ampliación una vez descargada está en blanco, para configurarla se necesita de otro celular con la aplicación configurada para clonarla siguiendo los pasos que la misma aplicación brida.
 
 <img src="/images/MQTT_Dashboard.png" alt="drawing" width="300"/>
@@ -35,17 +38,12 @@ Cliente MQTT disponible en la tienda de aplicaciones de Android [MQTT Dashboard]
     5. Tiempo de demora en cada segmento antes de pasar al siguiente
 
 
-# Conectividad
-- El acceso es completo en el nivel de red local (dentro de la conectividad del edificio). 
-- Para el acceso desde fuera de la red local (desde celulares, a través de datos, desde otros proveedores de servicios de internet, etc.) es necesario la apertura de puertos, una IP fija o un nombre de dominio en su lugar.
-
-
-#Estado actual
+# Estado actual
 1. Determinando los mensajes que se enviaran entre los clientes y el servidor.
 2. Definiendo los elementos graficos y la manera del manejo de la interfaz del programa cliente desarrollado en C# para la computadora que funcionara como servidor.
 3. Verificar el algoritmo que determina la tarea a ejecutar en el cartel. 
 
-#Librerias utilizadas
+# Librerias utilizadas
 - Interfaz de estilo web [Material Desing Lite](https://getmdl.io/)
 - Protoclo comunicacion MQTT [mqtt.org](https://mqtt.org/)
 - Cliente MQTT para Android [MQTT Dashboard](https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&hl=es_AR&gl=US)
