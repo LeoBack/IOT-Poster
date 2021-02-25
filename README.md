@@ -24,9 +24,9 @@ Cliente MQTT disponible en la tienda de aplicaciones de Android [MQTT Dashboard]
 <img src="/images/MQTT_Dashboard.png" alt="drawing" width="300"/>
 
 
-## Configuracion de las Tareas
+# Configuracion de las Tareas
 
-# Las Tareas consisten en:
+Las Tareas consisten en:
 1. Nombre de la tarea
 2. Fecha y Hora de inicio y fin
 3. Habilitación de la para que su ejecución
